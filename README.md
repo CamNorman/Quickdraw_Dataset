@@ -1,1 +1,1 @@
-Packages Used: Seaborn, Pandas, Numpy, Tensorflow
+Packages Used: Seaborn, Pandas, Numpy, and Tensorflow.
